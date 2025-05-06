@@ -1,0 +1,11 @@
+<script>start("c:\\Users\\reema\\OneDrive\\LearnTubeProject\\testing\\transcriptions\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("audio_1.txt","audio_1.txt",0,5435,"5.3 kB",1746364709,"5/4/25, 4:18:29 PM");</script>
+<script>addRow("audio_2.txt","audio_2.txt",0,7646,"7.5 kB",1746365225,"5/4/25, 4:27:05 PM");</script>
+<script>addRow("audio_3.txt","audio_3.txt",0,5428,"5.3 kB",1746365570,"5/4/25, 4:32:50 PM");</script>
+<script>addRow("audio_4.txt","audio_4.txt",0,9333,"9.1 kB",1746366755,"5/4/25, 4:52:35 PM");</script>
+<script>addRow("audio_5.txt","audio_5.txt",0,5550,"5.4 kB",1746367599,"5/4/25, 5:06:39 PM");</script>
+<script>addRow("audio_6.txt","audio_6.txt",0,9064,"8.9 kB",1746368054,"5/4/25, 5:14:14 PM");</script>
+<script>addRow("audio_7.txt","audio_7.txt",0,9215,"9.0 kB",1746368516,"5/4/25, 5:21:56 PM");</script>
+<script>addRow("audio_8.txt","audio_8.txt",0,3805,"3.7 kB",1746368681,"5/4/25, 5:24:41 PM");</script>
+<script>addRow("audio_9.txt","audio_9.txt",0,8033,"7.8 kB",1746369082,"5/4/25, 5:31:22 PM");</script>

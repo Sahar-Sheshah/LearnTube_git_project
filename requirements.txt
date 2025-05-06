@@ -1,0 +1,14 @@
+"""
+# This file is used to install the required packages for the project.
+langchain-community
+openai
+langchain
+langchainhub
+langchai
+yt_dlp
+python-dotenv
+pinecone-client
+faster-whisper
+tiktoken
+langchain-pinecone
+"""
