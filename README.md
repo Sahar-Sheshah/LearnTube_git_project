@@ -144,5 +144,4 @@ streamlit run LearnTubeDeploy.py
 
 ---
 
-هل تود مني أيضًا تحويل هذا إلى ملف `README.md` جاهز للنسخ أو التنزيل؟
 
