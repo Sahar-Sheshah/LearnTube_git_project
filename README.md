@@ -91,11 +91,10 @@ To develop a **smart, multimodal chatbot** that enables students to learn more e
 ## ✨ Project Presentation
 
 [📽️ View Project Slides]()
-https://drive.google.com/file/d/1NzBP9CcZDpvFGxOTViNmELQ5jE7Xj6c7/view?usp=drive_link
+https://drive.google.com/file/d/1NzBP9CcZDpvFGxOTViNmELQ5jE7Xj6c7/view?usp=sharing
 ---
 ## ✨ Project Demo (streamlit)
-https://drive.google.com/file/d/1SCOrJwHHiO13x1CquS9MUjpudBJBpGnP/view?usp=drive_link
-
+https://drive.google.com/file/d/1SCOrJwHHiO13x1CquS9MUjpudBJBpGnP/view?usp=sharing
 ---
 ## 🚀 How to Run the Project
 
