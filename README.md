@@ -43,7 +43,7 @@ To develop a **smart, multimodal chatbot** that enables students to learn more e
 | --------------------- | ----------------------------------- |
 | Speech-to-Text        | OpenAI Whisper (via Faster-Whisper) |
 | NLP & LLMs            | OpenAI APIs (via LangChain)         |
-| Vector Search         | FAISS (was Pinecone)                |
+| Vector Search         | Pinecone                            |
 | Interface             | Streamlit                           |
 | Agents & Tool Routing | LangChain Agent                     |
 
