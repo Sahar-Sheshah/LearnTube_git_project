@@ -91,10 +91,13 @@ To develop a **smart, multimodal chatbot** that enables students to learn more e
 ## ✨ Project Presentation
 
 [📽️ View Project Slides]()
-
+https://drive.google.com/file/d/1NzBP9CcZDpvFGxOTViNmELQ5jE7Xj6c7/view?usp=drive_link
 
 ---
+## ✨ Project Demo (streamlit)
 
+https://drive.google.com/file/d/1NzBP9CcZDpvFGxOTViNmELQ5jE7Xj6c7/view?usp=drive_link
+---
 ## 🚀 How to Run the Project
 
 ### Step 1: Clone the Repository
@@ -126,8 +129,6 @@ streamlit run LearnTubeDeploy.py
 
 **Question**: What is the difference between weak and strong AI?
 **Answer**: Weak AI refers to systems designed for specific tasks without true understanding (like chatbots or recommendation engines). Strong AI would be capable of human-level cognition, reasoning, and consciousness — a concept still theoretical.
-
-📄 *Source: AI Foundations Lecture 3 – timestamp 12:42*
 
 ---
 
