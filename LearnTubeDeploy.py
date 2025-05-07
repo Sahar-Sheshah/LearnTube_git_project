@@ -16,13 +16,11 @@ tools = [
 
 # Initialize the agent
 agent = initialize_agent(tools, llm, agent="zero-shot-react-description", verbose=True)
-
-# Customize interface styling
 st.markdown(
     """
     <style>
     .reportview-container {
-        background-color: #f4f4f9;
+        background-color: #291e50;
     }
     .sidebar .sidebar-content {
         background-color: #2e3a59;
@@ -32,6 +30,8 @@ st.markdown(
         border-radius: 8px;
         color: #003366;
         font-weight: bold;
+        caret-color: red; /* لون مؤشر الكتابة */
+        cursor: text;     /* شكل المؤشر عند المرور */
     }
     </style>
     """,
