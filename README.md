@@ -1,4 +1,3 @@
-بالطبع! إليك نسخة منسقة واحترافية من وثيقة المشروع بصيغة Markdown، مستوحاة من المثال السابق، ولكن مخصصة بالكامل لمشروعكم **LearnTube — Your AI Study Companion for YouTube Lectures**:
 
 ---
 
