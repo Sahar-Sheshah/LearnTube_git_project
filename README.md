@@ -89,8 +89,6 @@ To develop a **smart, multimodal chatbot** that enables students to learn more e
 ---
 
 ## ✨ Project Presentation
-
-[📽️ View Project Slides]()
 https://drive.google.com/file/d/1NzBP9CcZDpvFGxOTViNmELQ5jE7Xj6c7/view?usp=sharing
 ---
 ## ✨ Project Demo (streamlit)
